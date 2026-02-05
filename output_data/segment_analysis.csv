@@ -1,0 +1,4 @@
+segment,Customer_Count,Total_Revenue,Avg_CLV,Min_CLV,Max_CLV,Avg_Orders,Total_Orders,Avg_Order_Value,Revenue_Share_Pct
+Low Value,18,14400,800.0,100,1500,1.06,19,777.78,13.1
+Medium Value,14,30100,2150.0,1600,2700,1.29,18,1789.29,27.3
+High Value,16,65800,4112.5,2800,9900,1.88,30,2337.5,59.7

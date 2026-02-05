@@ -1,0 +1,21 @@
+Metric,Value
+Total Customers Analyzed,48
+Total Revenue (Completed Orders),"$110,300"
+Average Customer Lifetime Value,"$2,297.92"
+Median Customer Lifetime Value,"$2,050.00"
+Standard Deviation CLV,"$1,792.83"
+Top Customer Revenue,"$9,900"
+Top Customer Name,Howard R.
+Order Completion Rate (%),67.7
+Return Rate (%),6.1
+High Value Customers,16
+Medium Value Customers,14
+Low Value Customers,18
+One-Time Buyers,33
+Repeat Customers,15
+Repeat Customer CLV Lift,2.6x
+Top 20% Revenue Share (%),41.3
+Avg Orders Per Customer,1.40
+Most Popular Payment Method,Credit Card
+Credit Card Revenue Share (%),53.3
+Orders-Revenue Correlation,0.749

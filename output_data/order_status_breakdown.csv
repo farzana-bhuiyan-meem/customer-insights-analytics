@@ -1,0 +1,6 @@
+Order_Status,Order_Count,Percentage
+Completed,67,67.7
+Placed,13,13.1
+Shipped,13,13.1
+Returned,4,4.0
+Return_Pending,2,2.0

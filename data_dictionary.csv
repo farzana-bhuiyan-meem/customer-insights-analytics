@@ -1,0 +1,12 @@
+File_Name,Column_Name,Description,Use_Case
+customer_insights_dashboard.csv,revenue_rank,Customer rank by total revenue (1 = highest),Identify VIP customers for retention programs
+customer_insights_dashboard.csv,segment_label,Customer value segment (High/Medium/Low),Segment-specific marketing campaigns
+customer_insights_dashboard.csv,revenue_contribution_pct,Customer contribution to total revenue (%),Pareto analysis and revenue concentration
+customer_insights_dashboard.csv,is_top_20_pct,TRUE if customer is in top 20% by revenue,VIP program eligibility
+customer_insights_dashboard.csv,at_risk_flag,TRUE if no purchase in 30+ days,Re-engagement campaign targeting
+summary_statistics.csv,All columns,Key business metrics and KPIs,Executive dashboard summary
+segment_analysis.csv,Revenue_Share_Pct,Segment contribution to total revenue (%),Strategic planning by customer tier
+monthly_performance.csv,Completion_Rate_Pct,Percentage of orders completed per month,Operational performance tracking
+payment_method_analysis.csv,Revenue_Share_Pct,Payment method share of total revenue (%),Payment optimization strategies
+top_20_customers.csv,revenue_contribution_pct,Customer contribution to total revenue (%),Account management prioritization
+order_status_breakdown.csv,Percentage,Order status distribution (%),Fulfillment process improvement
