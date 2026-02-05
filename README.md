@@ -1,7 +1,5 @@
 # Customer Insights Dashboard - End-to-End Data Analysis Project
 
-![Tableau Dashboard]([tableau_dashboard/Customer Dtaa Insight Summary.png](https://public.tableau.com/views/Customer_Data_to_Insight/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
 ## 📊 Project Overview
 
 This project demonstrates a complete end-to-end data analysis workflow, transforming raw e-commerce data into actionable business insights through Python analysis and interactive Tableau dashboards.
@@ -173,7 +171,7 @@ jupyter notebook customer_data_insight.ipynb
 
 5. **Open Tableau Dashboard:**
 - Open `tableau_dashboard/Customer_Insights_Dashboard.twbx` in Tableau
-- Or view online: [Dashboard Link](your-tableau-public-link)
+- Or view online: [Dashboard Link]([your-tableau-public-link](https://public.tableau.com/views/Customer_Data_to_Insight/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## 📊 Data Dictionary
 
@@ -261,9 +259,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ⭐ **Star this repo if you found it helpful!**
 
-🔗 **Live Dashboard:** [View on Tableau Public](your-tableau-link)
+🔗 **Live Dashboard:** [View on Tableau Public]([your-tableau-link](https://public.tableau.com/views/Customer_Data_to_Insight/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 📧 **Questions?** Open an issue or reach out!
+
 
 
 
