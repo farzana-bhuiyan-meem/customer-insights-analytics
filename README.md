@@ -1,6 +1,6 @@
 # Customer Insights Dashboard - End-to-End Data Analysis Project
 
-![Customer Dtaa Insight Summary.png]
+![Tableau Dashboard](Customer Dtaa Insight Summary.png)
 
 ## 📊 Project Overview
 
@@ -264,6 +264,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🔗 **Live Dashboard:** [View on Tableau Public](your-tableau-link)
 
 📧 **Questions?** Open an issue or reach out!
+
 
 
 
